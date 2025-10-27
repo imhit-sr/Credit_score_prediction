@@ -109,22 +109,4 @@ Threshold tuning (0.60) further improved **recall** and **default detection** wi
 
 ---
 
-## 🚀 Future Improvements
 
-- Implement **Focal Loss** to handle extreme class imbalance  
-- Try **Optuna-based multi-objective optimization** for precision–recall trade-offs  
-- Add **SHAP-based explainability** to enhance model interpretability  
-- Deploy model via **Flask/FastAPI** for real-time risk prediction  
-
----
-
-## 📬 Contact
-
-**Author:** [Your Name]  
-**GitHub:** [Your GitHub Profile Link]  
-**Email:** [Your Email]  
-**LinkedIn:** [Your LinkedIn Profile Link]
-
----
-
-> _“Predict early. Prevent risk. Protect trust.”_
